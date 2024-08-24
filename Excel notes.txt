@@ -1,0 +1,3 @@
+=IF(90%>=80%),'yes','no')
+
+=IF((C14>=85%),B14+(B14*10%),B14) kind of interest 
